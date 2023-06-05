@@ -1,15 +1,7 @@
 # ChatGPT-OPENAI
-# **D3TOP – Tópicos em Ciência de Dados** 
 # **Processamento de Linguagem Natural**
 
-
-#**Professor:**
-# Samuel Martins 
-
-
-##**Alunos:**
 # Caio Francisco Garcia de Lima 
-
 # Carlos Caetano de Almeida 
 
 ## **Descrição e motivação do problema**
