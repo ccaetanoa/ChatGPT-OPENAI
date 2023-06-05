@@ -1,5 +1,4 @@
 # ChatGPT-OPENAI
-
 # **D3TOP – Tópicos em Ciência de Dados** 
 # **Processamento de Linguagem Natural**
 
@@ -11,7 +10,7 @@
 ##**Alunos:**
 # Caio Francisco Garcia de Lima 
 
-#Carlos Caetano de Almeida 
+# Carlos Caetano de Almeida 
 
 ## **Descrição e motivação do problema**
 
@@ -50,10 +49,10 @@ Ao utilizar o ChatGPT nos negócios, as empresas podem melhorar a satisfação d
 
 ## **Objetivo de negócio ou científico associado ao problema**
 
-###**Objetivo de Negócio:**
+### **Objetivo de Negócio:**
 
 O objetivo de negócio associado ao problema seria melhorar a experiência do cliente, aumentar a satisfação e fidelidade do cliente, e impulsionar o crescimento dos negócios. Isso pode ser alcançado por meio da implementação eficaz do ChatGPT para fornecer um suporte ao cliente de alta qualidade, respostas rápidas e precisas às consultas dos clientes e soluções personalizadas para suas necessidades. O objetivo é fortalecer o relacionamento com o cliente, promover interações positivas e aumentar a eficiência operacional.
 
-###**Objetivo Científico:**
+### **Objetivo Científico:**
 
 O objetivo científico associado ao problema seria aprimorar a capacidade do modelo de ChatGPT em compreender e responder de forma mais precisa e contextualmente relevante às consultas dos clientes. Isso envolve treinar o modelo em dados específicos do setor ou do negócio para melhorar sua compreensão e conhecimento sobre tópicos relevantes. Além disso, seria importante explorar técnicas de adaptação de domínio para garantir que o ChatGPT possa lidar com perguntas específicas de negócios e se adaptar a novos cenários ou atualizações de produtos e serviços. O objetivo é melhorar continuamente a qualidade e a inteligência das respostas geradas pelo ChatGPT para atender às necessidades e expectativas dos clientes.
