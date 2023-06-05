@@ -1,12 +1,15 @@
-# ChatGPT-OPENAI
-# **Processamento de Linguagem Natural**
- 
-## Caio Francisco Garcia de Lima 
+# **Processamento de Linguagem Natural - ChatGPT-OPENAI**
+</br>
+
 ## Carlos Caetano de Almeida 
- 
+## Caio Francisco Garcia de Lima 
+</br>
+
 ## **Descrição e motivação do problema**
-<br>
+</br>
+
 Links dos Vídeos do Projeto: 
+
 
 https://drive.google.com/file/d/15cT9cVAR_XGQOPe_eBAKZey8AgU-5KgV/view
 
